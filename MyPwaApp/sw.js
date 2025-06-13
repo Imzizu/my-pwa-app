@@ -2,9 +2,9 @@
 const CACHE_NAME = 'my-pwa-cache-v1';
 // List of files to cache
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  './',
+  './index.html',
+  './manifest.json'
   // Add other assets like CSS, JS, and images here
 ];
 
